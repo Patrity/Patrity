@@ -1,20 +1,55 @@
+<p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <a href="https://github.com/Patrity">
-      <img src="https://github-readme-stats.vercel.app/api/?username=Patrity&title_color=ec7460&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ec7460&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
-    </td>
-      <td align="center" style="padding=0;width=50%;">
-      <a href="https://github.com/Patrity">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Patrity&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=ec7460&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ec7460&hide_title=true&count_private=true&enable_animations=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Patrity&theme=vue-dark&dates=979797&stroke=00000000&background=00000000&fire=fff&hide_border=true" />
     </td>
   </tr>
 </p>
 
-<p align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <a href="https://github.com/Patrity">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Patrity&theme=tokyonight_duo&hide_border=true&ring=ec7460&currStreakLabel=ec7460&sideNums=ec7460&dates=979797&sideLabels=ec7460&currStreakNum=ec7460&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
-    </td>
-  </tr>
-</p>
+<div align="center">
+
+<h1>Hello, World!</h1>
+<h3 style="margin-top: -20px">I'm Tony 👋</h3>
+
+I'm a fullstack developer and have been programming for over 20 years.
+I have a passion for problem solving and building tech. I'm a big believer in teaching to learn - you don't know what you don't know, until you try to teach someone else!
+
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ThePatrity) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tonycos/) &nbsp;
+
+
+## What I'm Working On
+
+</div>
+
+- 🔥 Sponsorships & video editing @ [Fireship.io](https://github.com/fireship-io)
+- 🏆 Revitalizing & rewriting [RepCord](https://github.com/repcord-io)
+- 💻 Freelance Projects
+- 📚 Learning the latest web development trends
+    
+
+<div align="center" style="margin-bottom: 50px; margin-top:50px">
+
+## My Tech Stack
+
+[![Nuxt, Vue, TailwindCSS, Supabase, Typescript, Javascript, Java, Kotlin, PostgreSQL, Python](https://skillicons.dev/icons?i=nuxt,vue,tailwind,supabase,ts,js,java,kotlin,postgresql,python)](https://skillicons.dev)
+
+</div>
+
+
+<div align="center">
+
+## Programming Stats
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width=325 height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=patrity&theme=vue-dark&line_height=35&border_radius=7&show_icons=true&card_width=325" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width=325 height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Patrity&layout=compact&langs_count=8&card_width=325&theme=vue-dark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=650 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=patrity&theme=vue-dark&layout=compact&custom_title=Programming Time (Since Oct 23, 2023)" />
+</a>
+
+</div>
