@@ -40,16 +40,11 @@ I have a passion for problem solving and building tech. I'm a big believer in te
 <div align="center">
 
 ## Programming Stats
+<p>
+<img width=315 height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=patrity&theme=vue-dark&line_height=36&border_radius=7&show_icons=true&card_width=315" /> &nbsp;&nbsp;
+<img width=315 height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Patrity&layout=compact&langs_count=8&card_width=315&theme=vue-dark" />
+</p>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width=325 height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=patrity&theme=vue-dark&line_height=35&border_radius=7&show_icons=true&card_width=325" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width=325 height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Patrity&layout=compact&langs_count=8&card_width=325&theme=vue-dark" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=650 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=patrity&theme=vue-dark&layout=compact&custom_title=Programming Time (Since Oct 23, 2023)" />
-</a>
+<img width=650 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=patrity&theme=vue-dark&layout=compact" />
 
 </div>
