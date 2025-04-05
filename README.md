@@ -22,8 +22,7 @@ I have a passion for problem solving and building tech. I'm a big believer in te
 
 </div>
 
-- 🔥 Sponsorships & video editing @ [Fireship.io](https://github.com/fireship-io)
-- 🥇 Development of [RuneHub](https://rune-hub.com) top list for game servers
+- 🔥 Script Writing & Video Production @ [Fireship.io](https://github.com/fireship-io)
 - 🏆 Revitalizing & rewriting [RepCord](https://github.com/repcord-io)
 - 💻 Freelance Projects
 - 📚 Learning the latest web development trends
