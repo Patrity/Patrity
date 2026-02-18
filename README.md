@@ -23,7 +23,7 @@ I have a passion for problem solving and building tech. I'm a big believer in te
 </div>
 
 - 🔥 Script Writing & Video Production @ [Fireship.io](https://github.com/fireship-io)
-- 🏆 Revitalizing & rewriting [RepCord](https://github.com/repcord-io)
+- 🏆 Creating [Cognova](https://github.com/patrity/cognova)
 - 💻 Freelance Projects
 - 📚 Learning the latest web development trends
     
