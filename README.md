@@ -14,7 +14,7 @@
 I'm a fullstack developer and have been programming for over 20 years.
 I have a passion for problem solving and building tech. I'm a big believer in teaching to learn - you don't know what you don't know, until you try to teach someone else!
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ThePatrity) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Patrity) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tonycos/) &nbsp;
 
 
@@ -23,7 +23,7 @@ I have a passion for problem solving and building tech. I'm a big believer in te
 </div>
 
 - 🔥 Script Writing & Video Production @ [Fireship.io](https://github.com/fireship-io)
-- 🏆 Creating [Cognova](https://github.com/patrity/cognova)
+- 🤖 Keeping up with the latest innovations in AI
 - 💻 Freelance Projects
 - 📚 Learning the latest web development trends
     
